@@ -1,8 +1,12 @@
 aid: peanut-app
 name: Peanut App
-description: 'Peanut App is a company surfaced as a portfolio company of partech and added to the API
-  Evangelist network as a stub for enrichment. Sector: Consumer. This profile is a lead awaiting the enrichment
-  pipeline.'
+description: 'Peanut is a social networking app connecting women through all stages of womanhood
+  — from fertility and pregnancy to motherhood and menopause. Founded in 2017 by Michelle Kennedy,
+  the platform provides a safe, moderated space where more than five million women find friends,
+  join life-stage communities and groups, ask questions, and access expert content. Peanut is a
+  consumer mobile-first product (iOS and Android) and does not publish a public developer API;
+  this profile was surfaced as a portfolio company of partech and enriched with the artifacts the
+  company genuinely publishes (llms.txt and domain-security posture).'
 url: https://raw.githubusercontent.com/api-evangelist/peanut-app/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -10,12 +14,29 @@ x-backed-by:
 - partech
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://www.peanut-app.io/images/social-share.png
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-20'
 tags:
 - Company
 - Consumer
+- Social Network
+- Community
+- Women
+- Health
+- Mobile App
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -25,3 +46,20 @@ maintainers:
 common:
 - type: Website
   url: https://www.peanut-app.io/
+- type: Blog
+  url: https://peanut-app.io/blog
+- type: SignUp
+  url: https://peanut-app.io/download
+- type: TermsOfService
+  url: https://peanut-app.io/terms
+- type: PrivacyPolicy
+  url: https://peanut-app.io/privacy
+- type: LLMsTxt
+  url: llms/peanut-app-llms.txt
+- type: DomainSecurity
+  url: security/peanut-app-domain-security.yml
+x-enrichment:
+  date: '2026-07-20'
+  status: enriched
+  artifacts_added: 3
+  pass: local-v1

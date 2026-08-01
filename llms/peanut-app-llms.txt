@@ -1,0 +1,58 @@
+# Peanut
+
+> The ultimate app connecting women through all stages of womanhood—from fertility and pregnancy to motherhood and menopause.
+
+Peanut is a social networking app designed to reduce feelings of isolation and empower women to connect worldwide. Founded in 2017 by Michelle Kennedy, Peanut provides a safe space for women to find friends, ask questions, and receive support from others at similar life stages. With over 5 million trusted users and a 4.4-star rating, Peanut makes it easy to discover like-minded women nearby who share your interests, hobbies, and journey.
+
+Key features and benefits:
+- Swipe to discover and connect with women in your area based on life stage and interests
+- Join groups and communities aligned with your journey, from local meet-ups to shared interests
+- Ask questions and get real advice from women who understand your experiences
+- Access expert articles and resources at your fingertips
+- Safe, moderated space with community guidelines to ensure respectful interactions
+
+## Life Stage Communities
+
+- [Fertility Community](https://peanut-app.io/fertility-community): Connect with others trying to conceive, share TTC experiences, and find support during your fertility journey
+- [Pregnancy Community](https://peanut-app.io/pregnancy-community): Discover advice, tips, and information from other mamas-to-be throughout your pregnancy
+- [Motherhood Community](https://peanut-app.io/motherhood-community): Meet mamas nearby with similarly aged children and build lasting friendships
+- [Menopause Community](https://peanut-app.io/menopause-community): Share your menopause journey, find answers to questions, and access support groups
+
+## Features
+
+- Discovery: Swipe-based interface to find women nearby who match your interests and life stage
+- Groups: Explore and join communities that align with your journey and interests
+- Community Posts: Ask questions, share stories, and get valuable advice from real women
+- Audio Chat: Connect through voice conversations with other members
+- Direct Messaging: Build one-on-one connections with women you meet on the app
+- Expert Content: Access articles and resources written by professionals and experienced mamas
+
+## Resources
+
+- [Blog](https://peanut-app.io/blog): Expert advice, tips, and stories covering fertility, pregnancy, motherhood, and menopause
+- [Medical Review](https://peanut-app.io/medical-review): Information about Peanut's medical review process and expert contributors
+- [Community Guidelines](https://peanut-app.io/community-guidelines): Rules and standards that keep Peanut a safe, supportive space
+- [Due Date Calculator](https://peanut-app.io/due-date-calculator): Calculate your pregnancy due date and track your journey
+- [Ovulation Calculator](https://peanut-app.io/ovulation-calculator): Track your fertile window and optimize conception timing
+- [Chinese Gender Predictor](https://peanut-app.io/chinese-gender-predictor): Predict your baby's gender using the traditional Chinese calendar
+
+## Getting Started
+
+- [Download Peanut](https://peanut-app.io/download): Available free on iOS and Android
+- [iOS App](https://peanut.app.link/ios/): Download from the App Store
+- [Android App](https://peanut.app.link/android/): Download from Google Play
+- [About Us](https://peanut-app.io/about-us): Learn about Peanut's mission and founder Michelle Kennedy
+
+## Company
+
+- [Peanut @ Work](https://peanut-app.io/peanut-at-work): Corporate partnerships and workplace wellness programs
+- [Shop](https://shop.peanut-app.io): Peanut merchandise and products
+- [Peanut News](https://peanut-app.io/from-peanut): Latest updates, press releases, and company news
+- [Terms](https://peanut-app.io/terms): Terms of service and user agreement
+- [Privacy](https://peanut-app.io/privacy): Privacy policy and data protection information
+
+## Press & Recognition
+
+Featured in The Times, The New York Times, Fortune, BBC, Vogue, Evening Standard, Refinery29, and Forbes.
+
+Contact: press@teampeanut.com
