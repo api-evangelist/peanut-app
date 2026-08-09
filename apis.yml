@@ -1,12 +1,12 @@
 aid: peanut-app
 name: Peanut App
-description: 'Peanut is a social networking app connecting women through all stages of womanhood
-  — from fertility and pregnancy to motherhood and menopause. Founded in 2017 by Michelle Kennedy,
-  the platform provides a safe, moderated space where more than five million women find friends,
-  join life-stage communities and groups, ask questions, and access expert content. Peanut is a
-  consumer mobile-first product (iOS and Android) and does not publish a public developer API;
-  this profile was surfaced as a portfolio company of partech and enriched with the artifacts the
-  company genuinely publishes (llms.txt and domain-security posture).'
+description: Peanut is a social networking app connecting women through all stages of womanhood — from
+  fertility and pregnancy to motherhood and menopause. Founded in 2017 by Michelle Kennedy, the platform
+  provides a safe, moderated space where more than five million women find friends, join life-stage communities
+  and groups, ask questions, and access expert content. Peanut is a consumer mobile-first product (iOS
+  and Android) and does not publish a public developer API; this profile was surfaced as a portfolio company
+  of partech and enriched with the artifacts the company genuinely publishes (llms.txt and domain-security
+  posture).
 url: https://raw.githubusercontent.com/api-evangelist/peanut-app/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -28,7 +28,7 @@ accessModel:
 image: https://www.peanut-app.io/images/social-share.png
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-20'
+modified: '2026-08-08'
 tags:
 - Company
 - Consumer
@@ -58,8 +58,14 @@ common:
   url: llms/peanut-app-llms.txt
 - type: DomainSecurity
   url: security/peanut-app-domain-security.yml
+- type: Support
+  url: https://www.peanut-app.io/help
+- type: GettingStarted
+  url: https://peanut-app.io/download
 x-enrichment:
   date: '2026-07-20'
   status: enriched
   artifacts_added: 3
   pass: local-v1
+x-merged-from:
+- peanut
